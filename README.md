@@ -1,4 +1,4 @@
-# Hi, I'm André 👋
+# Hi, I'm André Toyama 👋
 
 Full-Stack Developer and DevOps Enthusiast  
 Systems Analysis and Development student  
@@ -45,7 +45,7 @@ AWS Services: ECS, Lambda, S3, Aurora RDS, IAM, VPC
 
 ## Featured Project
 
-**FinHelper**  
+**[FinHelper](https://github.com/andretoyama-dev/FinHelper)**  
 Personal finance management web application  
 - Expense tracking  
 - Budget organization  
