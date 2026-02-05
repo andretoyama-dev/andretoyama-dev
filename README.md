@@ -1,4 +1,4 @@
-# Hi, I'm André Toyama 👋
+# Hi, I'm André👋
 
 Full-Stack Developer and DevOps Enthusiast  
 Systems Analysis and Development student  
