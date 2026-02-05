@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm André Toyama 👋
 
-<!--
-**andretoyama-dev/andretoyama-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer and DevOps Enthusiast  
+Systems Analysis and Development student  
+Building scalable and cloud-ready applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Full-stack developer focused on modern web applications  
+- Interested in backend architecture, cloud and automation  
+- Always learning and improving best practices  
+- Open to remote opportunities  
+
+---
+
+## Tech Stack
+
+### Front-end
+- HTML5  
+- CSS3  
+- JavaScript  
+- TypeScript  
+- React  
+- Bootstrap  
+
+### Back-end
+- Node.js  
+- Python  
+- PostgreSQL  
+
+### DevOps / Cloud
+- Docker  
+- Kubernetes  
+- GitHub Actions  
+
+### Tools
+- Git  
+
+---
+
+## Featured Project
+
+**FinHelper**  
+Personal finance management web application  
+- Expense tracking  
+- Budget organization  
+- Clean UI and responsive design  
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=andretoyama-dev&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andretoyama-dev&layout=compact&theme=dark)
+
+---
+
+## Contact
+
+LinkedIn: https://linkedin.com
