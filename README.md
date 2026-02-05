@@ -1,4 +1,4 @@
-# Hi, I'm André👋
+# Hi, I'm André 👋
 
 Full-Stack Developer and DevOps Enthusiast  
 Systems Analysis and Development student  
@@ -50,14 +50,6 @@ Personal finance management web application
 - Expense tracking  
 - Budget organization  
 - Clean UI and responsive design  
-
----
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=andretoyama-dev&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andretoyama-dev&layout=compact)
 
 ---
 
