@@ -55,9 +55,9 @@ Personal finance management web application
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andretoyama-dev&show_icons=true&theme=dark" />
+![Stats](https://github-readme-stats.vercel.app/api?username=andretoyama-dev&show_icons=true)
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andretoyama-dev&layout=compact&theme=dark" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andretoyama-dev&layout=compact)
 
 ---
 
