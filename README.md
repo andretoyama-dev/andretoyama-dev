@@ -63,8 +63,7 @@ Personal finance management web application
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/andre-luiz-toyama-zanello/
-
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-luiz-toyama-zanello/)
 
 ---
 
