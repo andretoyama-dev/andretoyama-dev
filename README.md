@@ -55,14 +55,15 @@ Personal finance management web application
 
 ## GitHub Stats
 
-![Andre Toyama GitHub Stats](https://github-readme-stats.vercel.app/api?username=andretoyama-dev&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andretoyama-dev&layout=compact&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=andretoyama-dev&show_icons=true&theme=dark&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andretoyama-dev&layout=compact&theme=dark&cache_seconds=1800)
 
 ---
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/andr%C3%A9-luiz-toyama-zanello/
+LinkedIn: https://www.linkedin.com/in/andre-luiz-toyama-zanello/
+
 
 ---
 
