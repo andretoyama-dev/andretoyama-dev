@@ -33,11 +33,13 @@ Building scalable and cloud-ready applications.
 ### DevOps / Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+AWS Services: ECS, Lambda, S3, Aurora RDS, IAM, VPC
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 
 ---
 
@@ -53,11 +55,15 @@ Personal finance management web application
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=andretoyama-dev&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andretoyama-dev&layout=compact&theme=dark)
+![Andre Toyama GitHub Stats](https://github-readme-stats.vercel.app/api?username=andretoyama-dev&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andretoyama-dev&layout=compact&theme=dark)
 
 ---
 
 ## Contact
 
-LinkedIn: https://linkedin.com
+LinkedIn: https://www.linkedin.com/in/andr%C3%A9-luiz-toyama-zanello/
+
+---
+
+⭐ Feel free to explore my repositories and reach out!
