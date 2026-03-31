@@ -1,4 +1,4 @@
-# Welcome to my profile, I'm André 👋
+# Welcome to my profile, I'm André 😎
 
 Full-Stack Developer and DevOps Enthusiast  
 Systems Analysis and Development student  
