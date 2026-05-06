@@ -1,5 +1,5 @@
 <!-- HEADER — Cyberpunk wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a0000,50:FF003C,75:cc0030,100:0a0a0a&height=220&section=header&text=ANDR%C3%89%20TOYAMA&fontSize=50&fontColor=FF003C&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=18&descColor=ff6b6b&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a0000,50:FF003C,75:cc0030,100:0a0a0a&height=220&section=header&text=ANDR%C3%89%20TOYAMA&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=18&descColor=ffccd5&descAlignY=55&animation=fadeIn"/>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
@@ -68,7 +68,7 @@ Status    : Open to remote opportunities
 
 <div align="center">
   <a href="https://github.com/andretoyama-dev">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=andretoyama-dev&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img width="49%" src="https://github-readme-stats-andretoyama-devs-projects.vercel.app/api?username=andretoyama-dev&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/andretoyama-dev">
     <img width="49%" src="https://streak-stats.demolab.com?user=andretoyama-dev&theme=radical&hide_border=true&background=0D1117" />
@@ -77,7 +77,7 @@ Status    : Open to remote opportunities
 
 <div align="center">
   <a href="https://github.com/andretoyama-dev">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andretoyama-dev&layout=compact&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img width="40%" src="https://github-readme-stats-andretoyama-devs-projects.vercel.app/api/top-langs/?username=andretoyama-dev&layout=compact&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" />
   </a>
 </div>
 
