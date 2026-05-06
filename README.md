@@ -64,26 +64,6 @@ Status    : Open to remote opportunities
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ☠️ `> neofetch --stats`
-
-<div align="center">
-  <a href="https://github.com/andretoyama-dev">
-    <img width="49%" src="https://github-readme-stats-andretoyama-devs-projects.vercel.app/api?username=andretoyama-dev&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/andretoyama-dev">
-    <img width="49%" src="https://streak-stats.demolab.com?user=andretoyama-dev&theme=radical&hide_border=true&background=0D1117" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/andretoyama-dev">
-    <img width="40%" src="https://github-readme-stats-andretoyama-devs-projects.vercel.app/api/top-langs/?username=andretoyama-dev&layout=compact&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  </a>
-</div>
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🤘 `> ls ./trophies`
 
 <div align="center">
