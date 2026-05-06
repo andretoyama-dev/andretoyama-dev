@@ -1,5 +1,5 @@
 <!-- HEADER — Cyberpunk wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a0000,50:FF003C,75:cc0030,100:0a0a0a&height=220&section=header&text=ANDR%C3%89%20TOYAMA&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=18&descColor=ffccd5&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a0000,50:FF003C,75:cc0030,100:0a0a0a&height=220&section=header&text=ANDR%C3%89%20TOYAMA&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=18&descColor=ffccd5&descAlignY=55&animation=fadeIn&fontFamily=Trebuchet%20MS"/>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
