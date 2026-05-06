@@ -16,14 +16,14 @@
 ```
 Location  : Brazil
 Role      : Full-Stack Developer & DevOps Engineer
-Education : Systems Analysis and Development
+Education : Systems Analysis and Development @ FATEC-RP
 Focus     : Backend Architecture, Cloud Infrastructure, Automation
-Status    : Open to remote opportunities
+Status    : Junior DevOps Engineer
 ```
 
-- Currently building **[FinHelper](https://github.com/andretoyama-dev/FinHelper)**, a personal finance management application
+- Currently building **[FinHelper](https://github.com/andretoyama-dev/FinHelper)** — personal finance management application
 - Deepening knowledge in **Cloud Architecture, Kubernetes & CI/CD Pipelines**
-- I like customizing my GitHub profile when I’m bored.
+- Looking to collaborate on **open-source web applications and DevOps tools**
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -88,14 +88,6 @@ Status    : Open to remote opportunities
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Snake contribution animation — requires GitHub Action setup (see snake.yml) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andretoyama-dev/andretoyama-dev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andretoyama-dev/andretoyama-dev/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/andretoyama-dev/andretoyama-dev/output/github-snake.svg" />
-  </picture>
-</div>
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -131,6 +123,20 @@ Status    : Open to remote opportunities
   
   ![](https://komarev.com/ghpvc/?username=andretoyama-dev&style=for-the-badge&color=FF003C&label=PROFILE+VIEWS)
 
+</div>
+
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐍 `> snake --eat`
+
+<!-- Snake contribution animation — requires GitHub Action setup (see snake.yml) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andretoyama-dev/andretoyama-dev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andretoyama-dev/andretoyama-dev/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/andretoyama-dev/andretoyama-dev/output/github-snake.svg" />
+  </picture>
 </div>
 
 <!-- FOOTER — Cyberpunk wave -->
