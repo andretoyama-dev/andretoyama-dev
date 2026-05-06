@@ -1,10 +1,10 @@
 <!-- HEADER — Cyberpunk wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:1a002e,50:00f3ff,75:bd00ff,100:0d0d0d&height=220&section=header&text=ANDR%C3%89%20TOYAMA&fontSize=50&fontColor=00f3ff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=18&descColor=bd93f9&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,20:1a0a00,45:FF003C,65:FCEE09,100:0a0a0a&height=220&section=header&text=ANDR%C3%89%20TOYAMA&fontSize=50&fontColor=FCEE09&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=18&descColor=FF003C&descAlignY=55&animation=fadeIn"/>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F3FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Building+scalable+cloud-ready+systems;%3E+Automating+everything+that+can+be+automated;%3E+Open+to+remote+opportunities+worldwide)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FCEE09&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Building+scalable+cloud-ready+systems;%3E+Automating+everything+that+can+be+automated;%3E+Open+to+remote+opportunities+worldwide)](https://git.io/typing-svg)
 
 </div>
 
@@ -67,12 +67,12 @@ Status    : Open to remote opportunities
 ## ☠️ `> neofetch --stats`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=andretoyama-dev&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00f3ff&icon_color=bd00ff&text_color=c9d1d9&ring_color=00f3ff" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=andretoyama-dev&theme=synthwave&hide_border=true&background=0D1117&ring=00F3FF&fire=BD00FF&currStreakLabel=00F3FF&sideLabels=BD93F9&dates=555555" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=andretoyama-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FCEE09&icon_color=FF003C&text_color=c9d1d9" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=andretoyama-dev&hide_border=true&background=0D1117&ring=FCEE09&fire=FF003C&currStreakLabel=FCEE09&sideLabels=FF003C&dates=555555" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andretoyama-dev&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00f3ff&text_color=c9d1d9" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andretoyama-dev&layout=compact&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FCEE09&text_color=c9d1d9" />
 </div>
 
 <!-- NEON DIVIDER -->
@@ -82,7 +82,7 @@ Status    : Open to remote opportunities
 
 <div align="center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=andretoyama-dev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)
+  ![](https://github-profile-trophy.vercel.app/?username=andretoyama-dev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)
 
 </div>
 
@@ -116,29 +116,24 @@ Status    : Open to remote opportunities
 <!-- ACTIVITY GRAPH -->
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andretoyama-dev&bg_color=0d1117&color=00f3ff&line=bd00ff&point=00f3ff&area=true&area_color=1a002e&title_color=00f3ff&hide_border=true)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andretoyama-dev&bg_color=0d1117&color=FCEE09&line=FF003C&point=FCEE09&area=true&area_color=1a0000&title_color=FCEE09&hide_border=true)
 
 </div>
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤘 `> top_repos --sort=contributions`
+## 💀 `> echo $QUOTE`
 
 <div align="center">
-  
-  ![](https://github-contributor-stats.vercel.app/api?username=andretoyama-dev&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=00f3ff&text_color=c9d1d9)
 
-</div>
+```
+"A bug is never just a mistake.
+ It represents something bigger.
+ An error of thinking that makes you who you are."
 
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 💀 `> echo $RANDOM_QUOTE`
-
-<div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d1117&border_color=1a002e)
+                            — Elliot Alderson, Mr. Robot
+```
 
 </div>
 
@@ -157,9 +152,9 @@ Status    : Open to remote opportunities
 <!-- VISITOR COUNTER -->
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=andretoyama-dev&style=for-the-badge&color=00f3ff&label=PROFILE+VIEWS)
+  ![](https://komarev.com/ghpvc/?username=andretoyama-dev&style=for-the-badge&color=FF003C&label=PROFILE+VIEWS)
 
 </div>
 
 <!-- FOOTER — Cyberpunk wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:1a002e,50:00f3ff,75:bd00ff,100:0d0d0d&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,20:1a0a00,45:FF003C,65:FCEE09,100:0a0a0a&height=120&section=footer"/>
