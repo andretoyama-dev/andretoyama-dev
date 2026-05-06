@@ -4,7 +4,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Building+scalable+cloud-ready+systems;%3E+Automating+everything+that+can+be+automated;%3E+Open+to+remote+opportunities+worldwide)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1500&pause=500&color=FF003C&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Building+scalable+cloud-ready+systems;%3E+Automating+everything+that+can+be+automated;%3E+Open+to+remote+opportunities+worldwide)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,6 +24,7 @@ Status    : Junior DevOps Engineer at Siltech Consult
 - Currently building **[FinHelper](https://github.com/andretoyama-dev/FinHelper)** — personal finance management application
 - Deepening knowledge in **Cloud Architecture, Kubernetes & CI/CD Pipelines**
 - I like customizing my GitHub profile when I’m bored.**
+<br>
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -60,6 +61,7 @@ Status    : Junior DevOps Engineer at Siltech Consult
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 </div>
+<br>
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -71,6 +73,7 @@ Status    : Junior DevOps Engineer at Siltech Consult
   ![](https://github-profile-trophy.vercel.app/?username=andretoyama-dev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)
 
 </div>
+<br>
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -84,27 +87,7 @@ Status    : Junior DevOps Engineer at Siltech Consult
 | **[FinHelper](https://github.com/andretoyama-dev/FinHelper)** | Personal finance management — expense tracking, budget organization, responsive UI | JavaScript, React, Node.js |
 
 </div>
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 💀 `> echo $QUOTE`
-
-<div align="center">
-
-```
-"A bug is never just a mistake.
- It represents something bigger.
- An error of thinking that makes you who you are."
-
-                            — Elliot Alderson, Mr. Robot
-```
-
-</div>
+<br>
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -124,6 +107,7 @@ Status    : Junior DevOps Engineer at Siltech Consult
   ![](https://komarev.com/ghpvc/?username=andretoyama-dev&style=for-the-badge&color=FF003C&label=PROFILE+VIEWS)
 
 </div>
+<br>
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -138,6 +122,25 @@ Status    : Junior DevOps Engineer at Siltech Consult
     <img alt="Snake animation" src="https://raw.githubusercontent.com/andretoyama-dev/andretoyama-dev/output/github-snake.svg" />
   </picture>
 </div>
+<br>
+
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💀 `> echo $QUOTE`
+
+<div align="center">
+
+```
+"A bug is never just a mistake.
+ It represents something bigger.
+ An error of thinking that makes you who you are."
+
+                            — Elliot Alderson, Mr. Robot
+```
+
+</div>
+<br>
 
 <!-- FOOTER — Cyberpunk wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a0000,50:FF003C,75:cc0030,100:0a0a0a&height=120&section=footer"/>
