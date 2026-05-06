@@ -18,12 +18,12 @@ Location  : Brazil
 Role      : Full-Stack Developer & DevOps Engineer
 Education : Systems Analysis and Development @ FATEC-RP
 Focus     : Backend Architecture, Cloud Infrastructure, Automation
-Status    : Junior DevOps Engineer
+Status    : Junior DevOps Engineer at Siltech Consult
 ```
 
 - Currently building **[FinHelper](https://github.com/andretoyama-dev/FinHelper)** — personal finance management application
 - Deepening knowledge in **Cloud Architecture, Kubernetes & CI/CD Pipelines**
-- Looking to collaborate on **open-source web applications and DevOps tools**
+- I like customizing my GitHub profile when I’m bored.**
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
