@@ -11,7 +11,7 @@
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💀 `> whoami`
+### 💀 `> whoami`
 
 <div>
   <img src="./gitsgif.gif" align="right" width="250">
@@ -27,7 +27,7 @@
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤘 `> cat tech_stack.conf`
+### 🤘 `> cat tech_stack.conf`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,nodejs,python,postgres,docker,kubernetes,aws,githubactions,git,bash&theme=dark" />
