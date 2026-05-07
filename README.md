@@ -13,10 +13,16 @@
 
 ## 💀 `> whoami`
 
-<div align="center">
+<div>
+  <img src="./gitsgif.gif" align="right" width="250">
+  <br>
   <i>I am a 21-year-old software developer with a strong passion for creating scalable digital experiences and automating workflows. My journey in tech began in 2024, and I am currently in my final semester of Systems Analysis and Development. Right now, my main focus is building <b><a href="https://github.com/andretoyama-dev/FinHelper">FinHelper</a></b>, a comprehensive personal finance management application, while continuously expanding my expertise in Cloud Architecture and DevOps practices.</i>
 </div>
 <br>
+<div align="right">
+  <sub><i>"The quieter you become, the more you are able to hear."</i></sub>
+</div>
+<br><br>
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -56,19 +62,6 @@
 <br>
 
 
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 💀 `> cat ./projects/featured.md`
-
-<div align="center">
-
-| Project | Description | Stack |
-|:---:|:---|:---|
-| **[FinHelper](https://github.com/andretoyama-dev/FinHelper)** | Personal finance management — expense tracking, budget organization, responsive UI | JavaScript, React, Node.js |
-
-</div>
-<br>
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -91,23 +84,6 @@
 <br>
 
 
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 💀 `> echo $QUOTE`
-
-<div align="center">
-
-```
-"A bug is never just a mistake.
- It represents something bigger.
- An error of thinking that makes you who you are."
-
-                            — Elliot Alderson, Mr. Robot
-```
-
-</div>
-<br>
 
 <!-- FOOTER — Cyberpunk wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a0000,50:FF003C,75:cc0030,100:0a0a0a&height=120&section=footer"/>
