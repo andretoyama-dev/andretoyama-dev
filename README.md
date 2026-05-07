@@ -32,7 +32,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,nodejs,python,postgres,docker,kubernetes,aws,githubactions,git,bash&theme=dark" />
   <br><br>
-  > `AWS Services: ECS | Lambda | S3 | Aurora RDS | IAM | VPC`
+  > AWS Services: ECS | Lambda | S3 | Aurora RDS | IAM | VPC
 </div>
 <br>
 
@@ -43,7 +43,7 @@
 
 <!-- VISITOR COUNTER -->
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=andretoyama-dev&style=for-the-badge&color=FF003C&label=PROFILE+VIEWS)
+  <img src="https://komarev.com/ghpvc/?username=andretoyama-dev&style=for-the-badge&color=FF003C&label=PROFILE+VIEWS" />
 </div>
 <br>
 
