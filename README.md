@@ -4,7 +4,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1500&pause=500&color=FF003C&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Building+scalable+cloud-ready+systems;%3E+Automating+everything+that+can+be+automated;%3E+Open+to+remote+opportunities+worldwide)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1500&pause=500&color=FF003C&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Building+scalable+cloud-ready+systems;%3E+Automating+everything+that+can+be+automated+(or+at+least+trying);%3E+Open+to+remote+opportunities+worldwide)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,17 +13,9 @@
 
 ## 💀 `> whoami`
 
-```
-Location  : Brazil
-Role      : Full-Stack Developer & DevOps Engineer
-Education : Systems Analysis and Development @ FATEC-RP
-Focus     : Backend Architecture, Cloud Infrastructure, Automation
-Status    : Junior DevOps Engineer at Siltech Consult
-```
-
-- Currently building **[FinHelper](https://github.com/andretoyama-dev/FinHelper)** — personal finance management application
-- Deepening knowledge in **Cloud Architecture, Kubernetes & CI/CD Pipelines**
-- I like customizing my GitHub profile when I’m bored.**
+<div align="center">
+  <i>I am a 21-year-old software developer with a strong passion for creating scalable digital experiences and automating workflows. My journey in tech began in 2024, and I am currently in my final semester of Systems Analysis and Development. Right now, my main focus is building <b><a href="https://github.com/andretoyama-dev/FinHelper">FinHelper</a></b>, a comprehensive personal finance management application, while continuously expanding my expertise in Cloud Architecture and DevOps practices.</i>
+</div>
 <br>
 
 <!-- NEON DIVIDER -->
@@ -63,17 +55,6 @@ Status    : Junior DevOps Engineer at Siltech Consult
 </div>
 <br>
 
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🤘 `> ls ./trophies`
-
-<div align="center">
-  
-  ![](https://github-profile-trophy.vercel.app/?username=andretoyama-dev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-<br>
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -109,20 +90,6 @@ Status    : Junior DevOps Engineer at Siltech Consult
 </div>
 <br>
 
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 `> snake --eat`
-
-<!-- Snake contribution animation — requires GitHub Action setup (see snake.yml) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andretoyama-dev/andretoyama-dev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andretoyama-dev/andretoyama-dev/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/andretoyama-dev/andretoyama-dev/output/github-snake.svg" />
-  </picture>
-</div>
-<br>
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
