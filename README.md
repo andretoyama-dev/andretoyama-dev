@@ -1,5 +1,5 @@
 <!-- HEADER — Cyberpunk wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:3b0086,50:00d2ff,75:ff00ff,100:0a0a0a&height=220&section=header&text=ANDR%C3%89%20TOYAMA&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=18&descColor=e0f7fa&descAlignY=55&animation=fadeIn&fontFamily=Trebuchet%20MS"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:001a33,50:00d2ff,75:001a33,100:0a0a0a&height=220&section=header&text=ANDR%C3%89%20TOYAMA&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=18&descColor=e0f7fa&descAlignY=55&animation=fadeIn&fontFamily=Trebuchet%20MS"/>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
@@ -43,11 +43,11 @@
 
 <!-- VISITOR COUNTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=andretoyama-dev&style=for-the-badge&color=FF003C&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=andretoyama-dev&style=for-the-badge&color=00d2ff&label=PROFILE+VIEWS" />
 </div>
 <br>
 
 
 
 <!-- FOOTER — Cyberpunk wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:3b0086,50:00d2ff,75:ff00ff,100:0a0a0a&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:001a33,50:00d2ff,75:001a33,100:0a0a0a&height=120&section=footer"/>
