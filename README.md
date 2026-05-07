@@ -1,5 +1,5 @@
 <!-- HEADER — Cyberpunk wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:001a33,50:00d2ff,75:001a33,100:0a0a0a&height=220&section=header&text=ANDR%C3%89%20TOYAMA&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=18&descColor=e0f7fa&descAlignY=55&animation=fadeIn&fontFamily=Trebuchet%20MS"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,001a33,00d2ff,001a33,000000&height=220&section=header&text=ANDR%C3%89%20TOYAMA&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DevOps%20Engineer&descSize=18&descColor=e0f7fa&descAlignY=55&animation=fadeIn&fontFamily=Segoe%20UI"/>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
@@ -27,7 +27,7 @@
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### ☠️ `> cat tech_stack.conf`
+### 🤘 `> cat tech_stack.conf`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,nodejs,python,postgres,docker,kubernetes,aws,githubactions,git,bash&theme=dark" />
@@ -50,4 +50,4 @@
 
 
 <!-- FOOTER — Cyberpunk wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:001a33,50:00d2ff,75:001a33,100:0a0a0a&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,001a33,00d2ff,001a33,000000&height=120&section=footer"/>
