@@ -2,7 +2,7 @@ name: Auto Update Age
 
 on:
   schedule:
-    - cron: "0 18 * * *" # Run daily at 18:00 UTC (15:00 Brasília time)
+    - cron: "0 18 9 6 *" # Runs exactly once a year on June 9th at 15:00 BRT (18:00 UTC)
   workflow_dispatch:
 
 jobs:
