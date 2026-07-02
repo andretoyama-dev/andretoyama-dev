@@ -16,7 +16,7 @@
 <div>
   <img src="./assets/coding.gif" align="right" width="250">
   <br>
-  <i>I am a <!-- AGE -->22<!-- /AGE -->-year-old software developer with a strong passion for creating scalable digital experiences and automating workflows. My journey in tech began in 2024, and I hold a degree in Systems Analysis and Development. Currently, my main focus is building <a href="https://andretoyama-dev.github.io/FinHelper/" target="_blank">FinHelper</a>, a comprehensive personal finance management application, while continuously expanding my expertise in Cloud Architecture and DevOps practices.</i>
+  <i>I am <!-- AGE -->8058<!-- /AGE --> days old, a software developer with a strong passion for creating scalable digital experiences and automating workflows. My journey in tech began in 2024, and I hold a degree in Systems Analysis and Development. Currently, my main focus is building <a href="https://andretoyama-dev.github.io/FinHelper/" target="_blank">FinHelper</a>, a comprehensive personal finance management application, while continuously expanding my expertise in Cloud Architecture and DevOps practices.</i>
 </div>
 <br>
 <div align="right">

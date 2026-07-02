@@ -2,7 +2,7 @@ name: Auto Update Age
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -23,24 +23,17 @@ jobs:
         run: |
           node -e "
           const fs = require('fs');
-          const birthDate = new Date('2004-06-09T14:55:00-03:00');
-          
-          const tzOffset = -3;
+          const birthDate = new Date('2004-06-09T15:00:00-03:00');
           const now = new Date();
-          const localNow = new Date(now.getTime() + (tzOffset * 60 + now.getTimezoneOffset()) * 60000);
-          
-          let age = localNow.getFullYear() - birthDate.getFullYear();
-          const monthDiff = localNow.getMonth() - birthDate.getMonth();
-          if (monthDiff < 0 || (monthDiff === 0 && localNow.getDate() < birthDate.getDate())) {
-            age--;
-          }
+          const diffTime = Math.max(0, now - birthDate);
+          const age = Math.floor(diffTime / (1000 * 60 * 60 * 24));
           
           let readme = fs.readFileSync('README.md', 'utf8');
-          const updatedReadme = readme.replace(/(<!-- AGE -->)\\d+(<!-- \\/AGE -->)/g, \`\$1\${age}\$2\`);
+          const updatedReadme = readme.replace(/(<!-- AGE -->)\d+(<!-- \/AGE -->)/g, \`\$1\${age}\$2\`);
           
           if (readme !== updatedReadme) {
             fs.writeFileSync('README.md', updatedReadme);
-            console.log(\`Age updated to \${age}\`);
+            console.log(\`Age updated to \${age} days\`);
             process.exit(0);
           } else {
             console.log('Age is already up to date.');
@@ -53,7 +46,7 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git config --global user.name "github-actions[bot]"
             git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            git commit -am "chore: auto-update age in README"
+            git commit -am "chore: auto-update age in days in README"
             git push
           else
             echo "No changes to commit."
